@@ -1,0 +1,9 @@
+{
+  "name": "GlobeTalker AI: Universal Travel Companion",
+  "description": "A comprehensive travel assistant that combines real-time voice translation, expert travel guidance for any country, and precise location mapping powered by Gemini AI.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
